@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+python/dev.db
+python/__pycache__
+.vscode/
+.env.*
